@@ -2,6 +2,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mareloraby&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  -->
 
+<p align="center">
+  <img src="https://github.com/mareloraby/mareloraby/blob/output/github-contribution-grid-snake.svg" alt="animated" />
+</p>
+
 
 ![snake gif](https://github.com/mareloraby/mareloraby/blob/output/github-contribution-grid-snake.svg)
 <!--
