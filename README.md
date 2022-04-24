@@ -1,7 +1,9 @@
-
+<!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mareloraby&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ -->
 
 
+![snake gif](https://github.com/mareloraby/mareloraby/blob/output/github-contribution-grid-snake.gif)
 <!--
 **mareloraby/mareloraby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
