@@ -21,6 +21,13 @@ I'm Maryam ElOraby
 
 ---
 
+### :fire: My Stats :
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamsherif)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mareloraby&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <p align="center"> 
@@ -36,21 +43,14 @@ I'm Maryam ElOraby
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 </div>
 
----
-
-### :fire: My Stats :
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamsherif)](https://github.com/anuraghazra/github-readme-stats)
- -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mareloraby&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mareloraby&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/mareloraby/mareloraby/blob/output/github-contribution-grid-snake.svg" alt="animated" />
 </p>
-
+ -->
 
 <!--
 **mareloraby/mareloraby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
