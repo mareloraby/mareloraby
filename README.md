@@ -26,7 +26,7 @@ I'm Maryam ElOraby
  -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mareloraby&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
----
+<!-- ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -42,7 +42,7 @@ I'm Maryam ElOraby
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 </div>
-
+ -->
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mareloraby&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  -->
