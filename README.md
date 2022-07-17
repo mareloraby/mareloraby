@@ -11,11 +11,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> -->
 
-I'm Maryam ElOraby
+Hello, I'm Maryam ElOraby 👋
 
-- :mortar_board: A 4th year Computer Science and Engineering student @ GUC. 
+- :mortar_board: A senior Computer Science and Engineering student @ GUC. 
 - :zap: Currently working on an NLP project.
-- :eyes: Looking for internshipsin data analysis or NLP.
+- :eyes: Looking for internships in data analysis or NLP.
 - :seedling: Currently learning and improving my problem solving skills in Java, and Python.
 - :mailbox: How to reach me: maryam.eloraby@gmail.com
 
