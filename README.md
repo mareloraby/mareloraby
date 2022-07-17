@@ -15,7 +15,7 @@ I'm Maryam ElOraby
 
 - :mortar_board: A 4th year Computer Science and Engineering student @ GUC. 
 - :zap: Currently working on an NLP project.
-- :eyes: Looking for summer internships.
+- :eyes: Looking for internshipsin data analysis or NLP.
 - :seedling: Currently learning and improving my problem solving skills in Java, and Python.
 - :mailbox: How to reach me: maryam.eloraby@gmail.com
 
