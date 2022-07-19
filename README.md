@@ -12,7 +12,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> -->
 
-Hello, I'm Maryam ElOraby 👋
+Hello, I'm Maryam ElOraby 👋  <img align="right" src="https://user-images.githubusercontent.com/42250266/179847576-7e36e313-446c-4b0f-b331-29cd0f6b4c84.png" width="145px"/>
+
+
+
+
 
 - :mortar_board: A senior Computer Science and Engineering student @ GUC. 
 - :zap: Currently working on an NLP project.
