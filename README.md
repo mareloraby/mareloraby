@@ -18,11 +18,13 @@ Hello, I'm Maryam ElOraby 👋  <img align="right" src="https://user-images.gith
 
 
 
-- :mortar_board: A senior Computer Science and Engineering student @ GUC. 
-- :zap: Currently working on an NLP project.
-- :eyes: Looking for internships in data analysis or NLP.
-- :seedling: Currently learning and improving my problem solving skills in Java, and Python.
+- :mortar_board: Senior computer science and engineering student @ GUC. 
+- ⚡ Currently working on an NLP project.
+- :eyes: Interested in ML, NLP, and data analytics. I also enjoy front-end development.
+- :seedling: Beginner mindset (always open to learning)
 - :mailbox: How to reach me: maryam.eloraby@gmail.com
+
+
 
 ---
 
@@ -32,7 +34,6 @@ Hello, I'm Maryam ElOraby 👋  <img align="right" src="https://user-images.gith
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mareloraby&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <p align="center"> 
