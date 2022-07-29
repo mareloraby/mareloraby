@@ -19,7 +19,6 @@ Hello, I'm Maryam ElOraby 👋  <img align="right" src="https://user-images.gith
 
 
 - :mortar_board: Senior computer science and engineering student @ GUC. 
-- ⚡ Currently working on an NLP project.
 - :eyes: Interested in ML, NLP, and data analytics. I also enjoy front-end development.
 - :seedling: Beginner mindset (always open to learning)
 - :mailbox: How to reach me: maryam.eloraby@gmail.com
