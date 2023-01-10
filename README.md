@@ -17,13 +17,14 @@ Hello, I'm Maryam ElOraby 👋  <img align="right" src="https://user-images.gith
 
 
 - :mortar_board: Senior computer science and engineering student @ GUC. 
-- :eyes: Interested in ML, NLP, and data analytics. I also enjoy front-end development.
-- :seedling: Always open to learning.
+- :eyes: Still figuring out my interests.
 - :mailbox: How to reach me: maryam.eloraby@gmail.com
 
 
 <!--
 ---
+- :seedling: Always open to learning.
+- :candle: Currently studying for finals.
 
 ### :fire: My Stats :
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamsherif)](https://github.com/anuraghazra/github-readme-stats)
