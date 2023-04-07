@@ -12,13 +12,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> -->
 
-Hello, I'm Maryam ElOraby 👋  <img align="right" src="https://user-images.githubusercontent.com/42250266/179847576-7e36e313-446c-4b0f-b331-29cd0f6b4c84.png" width="145px"/>
+Hey there!👋 Looks like you stumbled upon my GitHub!
+  <img align="right" src="https://user-images.githubusercontent.com/42250266/179847576-7e36e313-446c-4b0f-b331-29cd0f6b4c84.png" width="145px"/>
 
+I go by Maryam ElOraby, and I'm a senior computer science and engineering student @ GUC. My current obsessions? Natural Language Processing and Computer Linguistics!
 
-
-- :mortar_board: Senior computer science and engineering student @ GUC. 
-- :eyes: Still figuring out my interests.
-- :mailbox: How to reach me: maryam.eloraby@gmail.com
+:mailbox: How to reach me: maryam.eloraby@gmail.com
 
 
 <!--
