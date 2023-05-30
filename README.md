@@ -15,7 +15,7 @@
 Hey there!👋 Looks like you stumbled upon my GitHub!
   <img align="right" src="https://user-images.githubusercontent.com/42250266/179847576-7e36e313-446c-4b0f-b331-29cd0f6b4c84.png" width="145px"/>
 
-I go by Maryam, and I'm a senior computer science and engineering student @ GUC. My current obsessions? NLP and Computer Linguistics!
+I go by Maryam, and I'm a senior computer science and engineering student @ GUC.
 
 :mailbox: How to reach me: maryam.eloraby@gmail.com
 
